@@ -24,7 +24,7 @@ An advanced Retrieval-Augmented Generation (RAG) assistant powered by **Llama** 
 ├── administrativo.txt
 ├── tesis/
 │   └── thesis_example.txt
-└── README.md}
+└── README.md
 ```
 
 ## 🛠️ Built With
