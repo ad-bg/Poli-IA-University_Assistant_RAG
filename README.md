@@ -9,6 +9,20 @@ An advanced Retrieval-Augmented Generation (RAG) assistant powered by **Llama** 
 
 ---
 
+# 🕹️ Poli-IA // University Institutional RAG Assistant
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KbEV8bVPYv-YFA8oX1KzziW7jnUYBhls?usp=sharing)
+
+An institutional academic assistant optimized with RAG using LlamaIndex, integrated with official ITD administrative documents and a custom cyberpunk Gradio interface.
+
+## 🚀 Preview
+<div align="center">
+  <img src="Poli-IA.GIF" width="500px" style="border-radius: 10px;" />
+</div>
+
+
+---
+
 ## 🌟 Key Features
 
 * **Dynamic RAG Engine:** Indexes local TXT and PDF documents from the repository to ensure zero hallucinations and real-time data retrieval.
